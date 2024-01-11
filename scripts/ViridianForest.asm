@@ -39,7 +39,7 @@ ViridianForestTrainerHeader1:
 ViridianForestTrainerHeader2:
 	trainer EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_2, 1, ViridianForestYoungster4BattleText, ViridianForestYoungster4EndBattleText, ViridianForestYoungster4AfterBattleText
 ViridianForestTrainerHeader3:
-	trainer EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_3, 5, ViridianForestYoungster6BattleText, ViridianForestYoungster6EndBattleText, ViridianForestYoungster6AfterBattleText
+	trainer EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_4, 4, ViridianForestBattleText5, ViridianForestEndBattleText5, ViridianForestAfterBattleText5
 	db -1 ; end
 
 ViridianForestYoungster1Text:
