@@ -525,11 +525,11 @@
 
 ; Viridian Forest events
 	const_next $560
-	const_skip 2
+	const_skip 2 
 	const EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_0
 	const EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_1
 	const EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_2
-	const EVENT_BEAT_VIRIDIAN_SAMURAI
+	const EVENT_BEAT_VIRIDIAN_SAMURAI ;event no. 4
 
 
 ; Mt. Moon events
