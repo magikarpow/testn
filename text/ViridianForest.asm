@@ -71,6 +71,24 @@ _ViridianForestYoungster5Text::
 	line "extras!"
 	done
 
+;SAMURAI
+_ViridianForestYoungster6BattleText::
+	text "I want to be"
+	line "want aaaaaaaa"
+	cont "samurai"
+	done
+
+_ViridianForestYoungster6EndBattleText::
+	text "No!"
+	line "CATERPIE can't"
+	cont "cut it!"
+	prompt
+
+_ViridianForestYoungster6AfterBattleText::
+	text "Ssh! You'll scare"
+	line "the bugs away!"
+	done
+
 _ViridianForestTrainerTips1Text::
 	text "TRAINER TIPS"
 
