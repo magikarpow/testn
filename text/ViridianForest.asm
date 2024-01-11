@@ -71,25 +71,6 @@ _ViridianForestYoungster5Text::
 	line "extras!"
 	done
 
-;SAMURAI
-_ViridianForestBattleTextSamurai::
-	text "I'm gonna be the"
-	line "best. You just"
-	cont "can't beat me!"
-	done
-
-_ViridianForestEndBattleTextSamurai::
-	text "After"
-	line "all I did..."
-	prompt
-
-_ViridianForestAfterBattleTextSamurai::
-	text "A METAPOD is cool"
-	line "because its"
-	cont "attack is its"
-	cont "defense!"
-	done
-
 _ViridianForestTrainerTips1Text::
 	text "TRAINER TIPS"
 
