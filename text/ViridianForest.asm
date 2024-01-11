@@ -72,21 +72,22 @@ _ViridianForestYoungster5Text::
 	done
 
 ;SAMURAI
-_ViridianForestYoungster6BattleText::
-	text "I want to be"
-	line "want aaaaaaaa"
-	cont "samurai"
+_ViridianForestBattleTextSamurai::
+	text "I'm gonna be the"
+	line "best. You just"
+	cont "can't beat me!"
 	done
 
-_ViridianForestYoungster6EndBattleText::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+_ViridianForestEndBattleTextSamurai::
+	text "After"
+	line "all I did..."
 	prompt
 
-_ViridianForestYoungster6AfterBattleText::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+_ViridianForestAfterBattleTextSamurai::
+	text "A METAPOD is cool"
+	line "because its"
+	cont "attack is its"
+	cont "defense!"
 	done
 
 _ViridianForestTrainerTips1Text::
