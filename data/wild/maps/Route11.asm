@@ -20,7 +20,7 @@ IF DEF(_BLUE)
 ENDC
 	db 17, SPEAROW
 	db 11, DROWZEE
-	db 15, DROWZEE
+	db 17, RATICATE
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate
