@@ -38,8 +38,6 @@ ViridianForestTrainerHeader1:
 	trainer EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_1, 4, ViridianForestYoungster3BattleText, ViridianForestYoungster3EndBattleText, ViridianForestYoungster3AfterBattleText
 ViridianForestTrainerHeader2:
 	trainer EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_2, 1, ViridianForestYoungster4BattleText, ViridianForestYoungster4EndBattleText, ViridianForestYoungster4AfterBattleText
-ViridianForestTrainerHeader3:
-	trainer EVENT_BEAT_VIRIDIAN_FOREST_TRAINER_4, 4, ViridianForestBattleText5, ViridianForestEndBattleText5, ViridianForestAfterBattleText5
 	db -1 ; end
 
 ViridianForestYoungster1Text:
@@ -98,18 +96,6 @@ ViridianForestYoungster4EndBattleText:
 
 ViridianForestYoungster4AfterBattleText:
 	text_far _ViridianForestYoungster4AfterBattleText
-	text_end
-
-ViridianForestBattleText5:
-	text_far _ViridianForestBattleTextSamurai
-	text_end
-
-ViridianForestEndBattleText5:
-	text_far _ViridianForestEndBattleTextSamurai
-	text_end
-
-ViridianForestAfterBattleText5:
-	text_far _ViridianForestAfterBattleTextSamurai
 	text_end
 
 ViridianForestYoungster5Text:
