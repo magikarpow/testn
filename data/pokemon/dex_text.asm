@@ -1249,7 +1249,7 @@ _StarmieDexEntry::
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
+	text "A strange poop was"
 	next "planted on its"
 	next "back at birth."
 
