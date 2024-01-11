@@ -100,6 +100,18 @@ ViridianForestYoungster4AfterBattleText:
 	text_far _ViridianForestYoungster4AfterBattleText
 	text_end
 
+ViridianForestYoungster6BattleText:
+	text_far _ViridianForestYoungster4BattleText
+	text_end
+
+ViridianForestYoungster6EndBattleText:
+	text_far _ViridianForestYoungster4EndBattleText
+	text_end
+
+ViridianForestYoungster6AfterBattleText:
+	text_far _ViridianForestYoungster4AfterBattleText
+	text_end
+
 ViridianForestYoungster5Text:
 	text_far _ViridianForestYoungster5Text
 	text_end
